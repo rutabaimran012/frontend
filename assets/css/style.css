@@ -9,6 +9,10 @@ p{
     font-family:  'Poppins',sans-serif;
     color: #534D4C;
 } 
+
+a {
+  font-family:'Poppins';
+}
 .secion-one-heading{
     color: #F8574E;
     font-size: 80px;
